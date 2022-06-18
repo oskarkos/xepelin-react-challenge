@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## URL
+https://github.com/itsmefarhan/react-google-sheet-crud
+https://www.youtube.com/watch?v=_Lka7vKJFVA
+
 ## Available Scripts
 
 In the project directory, you can run:
