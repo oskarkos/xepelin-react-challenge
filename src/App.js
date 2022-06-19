@@ -91,8 +91,12 @@ function App() {
           <GoogleSheetData />
 
           <div className="flex w-full justify-center items-center gap-6">
-            <button onClick={handleSheet}>
-              {showsheet ? "Ocultar" : "Abrir"} Google Sheets
+            <button
+              className="my-5 p-5 border-solid border-2 border-gray-600 rounded-md hover:bg-slate-500 hover:border-white hover:text-white"
+              onClick={handleSheet}
+            >
+              {showsheet ? "Cerrar" : " Para hacer cambios puedes abrir"} Google
+              Sheets
               <FontAwesomeIcon className="ml-2" icon="fa-solid fa-file-excel" />
             </button>
           </div>
