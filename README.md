@@ -1,7 +1,7 @@
 
 # Xepelin Change Rate Notifications
 
-Este proyecto fue creado para la prueba tecnica de Product Software Engineer En Xepelin. Realizado por Oscar David Arcos.
+Este proyecto fue creado para la prueba tecnica de Product Software Engineer En Xepelin. Realizado por Oscar David Arcos usando la libreria React.js junto con Firebase, Loadsh y Fontawesome
 
 
 ## 🚀 Acerca de mi
