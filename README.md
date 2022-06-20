@@ -3,7 +3,6 @@
 
 Este proyecto fue creado para la prueba tecnica de Product Software Engineer En Xepelin. Realizado por Oscar David Arcos usando la libreria React.js junto con Firebase, Loadsh y Fontawesome
 
-
 ## 🚀 Acerca de mi
 Software Developer con experiencia de mas de dos años como frontend manejando librerias y frameworks como Vue.js y React.js.
 
@@ -57,4 +56,17 @@ Start the server
 ```bash
   npm run start
 ```
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file, for test reasons the file was left inside the repository
+
+`REACT_APP_GOOGLE_CLIENT_ID`
+
+`REACT_APP_GOOGLE_SHEETS_ID`
+
+`REACT_APP_GOOGLE_API_KEY`
+
+
 
