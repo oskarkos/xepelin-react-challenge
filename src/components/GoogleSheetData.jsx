@@ -59,7 +59,7 @@ const GoogleSheetData = () => {
   return (
     <div>
       <p className="font-medium text-xl my-7">
-        Estos son tus datos actuales de tus clientes{" "}
+        Estos son los datos actuales de tus clientes{" "}
       </p>
       <div className="grid grid-cols-3 grid-rows-1 mb-2 justify-around w-full h-4 font-bold">
         <p>ID</p>
